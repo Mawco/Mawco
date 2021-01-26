@@ -1,6 +1,6 @@
 <h1 align="center">Marco.</h1>
 
-<p align="center"><a><img src="https://cdn.discordapp.com/avatars/309620533761146880/8251f0e09b61cf52909ff149758fe15e.webp?size=4096"></a></p>
+<p align="center"><a><img src="https://avatars.githubusercontent.com/u/37117103?s=230&u=e61b28deccade0c11f516a6648d90c32c93895c8&"></a></p>
 <h2></h2>
 <p align="center">
 <a href="https://github.com/Mawco"><img src="https://komarev.com/ghpvc/?username=Mawco&color=blueviolet&style=flat-square"></a>
