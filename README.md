@@ -20,7 +20,9 @@
 	<img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
 	<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 	<img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
-	<img src ="https://img.shields.io/badge/RethinkDB-1c505f.svg?&style=for-the-badge"/></p>
+	<img src ="https://img.shields.io/badge/RethinkDB-1c505f.svg?&style=for-the-badge"/>
+	<img src ="https://img.shields.io/badge/Unity-000.svg?&style=for-the-badge&logo=unity&logoColor=white"/>
+</p>
 
 <br>
 <p align="center">
