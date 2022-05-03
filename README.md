@@ -23,9 +23,3 @@
 	<img src ="https://img.shields.io/badge/RethinkDB-1c505f.svg?&style=for-the-badge"/>
 	<img src ="https://img.shields.io/badge/Unity-000.svg?&style=for-the-badge&logo=unity&logoColor=white"/>
 </p>
-
-<br>
-<p align="center">
-<a href="https://github.com/Mawco"><img src="https://github-readme-stats.vercel.app/api?username=Mawco&show_icons=true&bg_color=1e272e&text_color=999&icon_color=ff3f34&title_color=ff5e57"></a>
-<a href="https://github.com/Mawco?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Mawco&show_icons=true&bg_color=1e272e&text_color=999&icon_color=ff3f34&title_color=ff5e57"></a>
-</p>
