@@ -17,9 +17,10 @@
 	<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 	<img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
 	<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-	<img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
+	<img src="https://img.shields.io/badge/tailwindcss%20-%230ea5e9.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 	<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 	<img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 	<img src ="https://img.shields.io/badge/RethinkDB-1c505f.svg?&style=for-the-badge"/>
-	<img src ="https://img.shields.io/badge/Unity-000.svg?&style=for-the-badge&logo=unity&logoColor=white"/>
+	<img src ="https://img.shields.io/badge/supabase%20-%2343853D.svg?&style=for-the-badge&logo=supabase&logoColor=white"/>
+	<img src="https://img.shields.io/badge/svelte%20/%20sveltekit-%23ff531a.svg?&style=for-the-badge&logo=svelte&logoColor=white"/>
 </p>
