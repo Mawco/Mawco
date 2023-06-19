@@ -8,7 +8,7 @@
 <a href="https://github.com/Mawco?tab=repositories"><img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/Mawco?color=blueviolet&label=Mawco%27s%20GitHub%20Stars&logo=github&style=flat-square"></a>
 </p>
 
-<p align="center">Most of the stuff here is private, but you can check out <a href="//github.com/AeternumDiscord">@AeternumDiscord</a> and the few public repos i have.</p>
+<p align="center">Most of the stuff here is private, but you can check out <a href="//github.com/AeternumDiscord">@AeternumDiscord</a> and <a href="//github.com/lilith-discord-bot">@lilith-discord-bot</a> (or the few public repos i have)</p>
 
 <br>
 <h1 align="center">🛠️ Tools with which i have spent sometime</h1>
