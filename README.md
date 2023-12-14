@@ -1,14 +1,8 @@
 <h1 align="center">Marco.</h1>
 
 <p align="center"><a><img src="https://avatars.githubusercontent.com/u/37117103?s=230&u=e61b28deccade0c11f516a6648d90c32c93895c8&"></a></p>
-<h2></h2>
-<p align="center">
-<a href="https://github.com/Mawco"><img src="https://komarev.com/ghpvc/?username=Mawco&color=blueviolet&style=flat-square"></a>
-<a href="https://github.com/Mawco?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Mawco?color=blueviolet&label=Mawco%27s%20GitHub%20Followers&logo=Github&style=flat-square"></a>
-<a href="https://github.com/Mawco?tab=repositories"><img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/Mawco?color=blueviolet&label=Mawco%27s%20GitHub%20Stars&logo=github&style=flat-square"></a>
-</p>
 
-<p align="center">Most of the stuff here is private, but you can check out <a href="//github.com/AeternumDiscord">@AeternumDiscord</a> and <a href="//github.com/lilith-discord-bot">@lilith-discord-bot</a> (or the few public repos i have)</p>
+<p align="center">VR/XR enthusiast, webdeveloper, professionnal retard.<br>Currently learning about OpenVR and OpenXR.<br>I have no idea what i'm doing please send help aaaaaaaaaaaaaaaaaaa</p>
 
 <br>
 <h1 align="center">🛠️ Tools with which i have spent sometime</h1>
