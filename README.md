@@ -2,7 +2,7 @@
 
 <p align="center"><a><img src="https://avatars.githubusercontent.com/u/37117103?s=230&u=e61b28deccade0c11f516a6648d90c32c93895c8&"></a></p>
 
-<p align="center">VR/XR enthusiast, webdeveloper, professional retard.<br>Currently learning about OpenVR and OpenXR.<br>I have no idea what i'm doing please send help aaaaaaaaaaaaaaaaaaa</p>
+<p align="center">VR/XR enthusiast, webdeveloper, professional retard.<br>Currently learning about OpenVR and OpenXR.<br>Working on the <a href="//github.com/Mawco/rust-openvr-sys">openvr_sys_bindings</a> and <a href="//github.com/Mawco/rust-openvr">openvr</a> Rust Crate.</p>
 
 <br>
 <h1 align="center">🛠️ Tools with which i have spent sometime</h1>
